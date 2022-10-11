@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# University On A Budget | Get Greatly Discounted Meals
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
