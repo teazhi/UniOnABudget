@@ -1,7 +1,7 @@
-# University On A Budget | <i>Get Greatly Discounted Meals</i>
+# University On A Budget | <i>Center For Food Discounts</i>
 
 Are you a college student with limited funds? Do you dislike your dining hall food? Well, I have the perfect solution for you!
-UOAB (University On A Budget) provides college students with a center for all food related coupons/deals.
+UOAB (University On A Budget) provides college students with a center for all food related coupons and deals.
 
 Uses gmail parsing to gather those sneaky, huge discount coupons that end up lingering in your spam folder, and puts it all in one place.
 
